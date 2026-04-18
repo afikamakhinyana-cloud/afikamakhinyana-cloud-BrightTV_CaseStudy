@@ -39,4 +39,4 @@ This project analyzes BrightTV's user profiles and viewing transaction data to p
 - `bright_tv_viewership` – Viewing transaction data (10,000 sessions, Jan-Mar 2016)
 
 ## Author
-[Your Name]
+Afika Makhnyana
